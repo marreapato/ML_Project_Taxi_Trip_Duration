@@ -31,12 +31,10 @@ The project employs a combination of traditional machine learning algorithms and
 
 1. **Random Forest:** A decision tree ensemble method for regression.
 2. **XGBoost:** A gradient boosting algorithm for regression.
-3. **Linear Regression:** A simple linear model for baseline comparison.
 
 ## Deep Learning Models
 
-1. **LSTM (Long Short-Term Memory):** A type of recurrent neural network (RNN) suitable for sequence prediction tasks.
-2. **DNN (Deep Neural Network):** A feedforward neural network with multiple hidden layers.
+1. **ANN (Aetificial Neural Network)** A Feedforward Neural Network with multiple neurons
 
 ## Evaluation Metrics
 

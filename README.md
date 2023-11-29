@@ -40,7 +40,7 @@ The project employs a combination of traditional machine learning algorithms and
 
 ## Evaluation Metrics
 
-The performance of the models is evaluated using metrics such as mean squared error (MSE), mean absolute error (MAE), and R-squared.
+The performance of the models is evaluated using the root mean squared error (RMSE)
 
 ## Getting Started
 
@@ -51,38 +51,13 @@ git clone https://github.com/your-username/taxi-trip-duration-prediction.git
 cd taxi-trip-duration-prediction
 ```
 
-2. Install the required dependencies:
+2. Explore the Jupyter notebooks in the `notebooks` directory for data analysis and preprocessing steps.
 
-```bash
-pip install -r requirements.txt
-```
-
-3. Explore the Jupyter notebooks in the `notebooks` directory for data analysis and preprocessing steps.
-
-4. Train and evaluate the models using the scripts in the `src` directory.
-
-## Usage
-
-To train and evaluate the machine learning models, run the following commands:
-
-```bash
-python src/train_ml_models.py
-```
-
-To train and evaluate the deep learning models, run:
-
-```bash
-python src/train_dl_models.py
-```
-
-## Results
-
-The results of the model evaluations, including performance metrics and visualizations, can be found in the `notebooks` directory.
+3. Train and evaluate the models using the scripts.
 
 ## Contributors
 
-- [Your Name]
-- [Collaborator Name]
+- [Lucas Rabelo]
 
 ## License
 
